@@ -14,7 +14,7 @@ https://youtu.be/R4VyKKDyfdw
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567626-7ad74af8-86a9-4228-8181-b14ad5300e8f.jpg" width="300" title="PHOTO">
-  <img src="https://user-images.githubusercontent.com/64035334/162580595-29ee7850-a1fb-4fe6-adac-802f437d38ee.jpg" width="300" title="PHOTO">
+  <img src="https://user-images.githubusercontent.com/64035334/162580595-29ee7850-a1fb-4fe6-adac-802f437d38ee.jpg" width="200" title="PHOTO">
 </p>
 
 
