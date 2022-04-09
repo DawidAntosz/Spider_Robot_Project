@@ -44,7 +44,7 @@ project has won many awards, including a particularly distinguished third place 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567566-e73ad33d-257e-4d73-82d4-af812f502e89.jpg" width="500" title="PHOTO">
-  <img src="https://user-images.githubusercontent.com/64035334/162567573-1b251261-ab54-4fd0-9b43-855fb09a93e4.jpg" width="100" title="PHOTO">
+  <img src="https://user-images.githubusercontent.com/64035334/162567573-1b251261-ab54-4fd0-9b43-855fb09a93e4.jpg" width="300" title="PHOTO">
 </p>
 
 
