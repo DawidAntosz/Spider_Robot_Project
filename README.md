@@ -14,11 +14,9 @@ https://youtu.be/R4VyKKDyfdw
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567626-7ad74af8-86a9-4228-8181-b14ad5300e8f.jpg" width="500" title="PHOTO">
-  <img src="https://user-images.githubusercontent.com/64035334/162580517-824dbd32-f7db-43e9-abd7-844c1d7330db.jpg" width="500" title="PHOTO">
+  <img src="https://user-images.githubusercontent.com/64035334/162580517-824dbd32-f7db-43e9-abd7-844c1d7330db.jpg" width="300" title="PHOTO">
 </p>
 
-
-![1553853647417](https://user-images.githubusercontent.com/64035334/162580525-e5c98c0f-08a1-4665-84f6-3790c58c9566.jpg)
 
 
 <p align="center">
