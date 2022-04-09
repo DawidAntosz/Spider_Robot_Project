@@ -9,7 +9,8 @@
 ## Description
 Robot design from years 2018/19 hence significant shortcomings in this design especially in the documentation and the written program. More information in the documentation directory.
 
-link to video project
+Link to video project:
+
 https://youtu.be/R4VyKKDyfdw
 
 <p align="center">
@@ -27,7 +28,7 @@ https://youtu.be/R4VyKKDyfdw
 
 
 
-project has won many awards, including a particularly distinguished third place in a national competition
+Project has won many awards, including a particularly distinguished third place in a national competition.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567566-e73ad33d-257e-4d73-82d4-af812f502e89.jpg" width="500" title="PHOTO">
