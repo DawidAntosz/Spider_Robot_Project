@@ -1,10 +1,14 @@
 # Spider Robot Project
 
-## Description
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567838-d45cc313-85a5-4865-8cc3-be12db53aaef.png" width="500" title="PHOTO">
 </p>
+
+
+## Description
+
+
 
 Robot design from years 2018/19 hence significant shortcomings in this design especially in the documentation and the written program
 
