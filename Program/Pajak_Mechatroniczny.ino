@@ -1,5 +1,3 @@
-///////VARIABLES//////
-
 #include <FlexiTimer2.h>
 #include <Servo.h>   
 #include <Wire.h>
@@ -11,7 +9,6 @@
 
 Servo servo[4][3];
 const int servo_pin[4][3] = { {2, 3, 4}, {5, 6, 7}, {8, 9, 10}, {11, 12, 13} };
-
 
 int wart        ;
 int przod  = 14 ;
