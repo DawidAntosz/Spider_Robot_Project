@@ -19,7 +19,7 @@ def readNumber():
 def main():
 	
     while True:
-	data = raw_input("Enter the data to be sent :")
+	data = raw_input("Data to sent :")
 	data_list = list(data)
 	for i in data_list:
 		writeNumber(int(ord(i)))
