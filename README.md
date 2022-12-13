@@ -11,10 +11,8 @@ Robot design from years 2018/19 hence significant shortcomings in this design es
 
 Link to video project:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/R4VyKKDyfdw "Video Title")
+[![image](https://user-images.githubusercontent.com/64035334/207258459-979a2210-e688-4131-9062-7446f91dd3f7.png)](https://youtu.be/R4VyKKDyfdw "Video Title")
 
-
-[![image](https://user-images.githubusercontent.com/64035334/207256962-797fc7a9-c6ae-4028-9de4-3b9de4aceece.png)](https://youtu.be/R4VyKKDyfdw "Video Title")
 
 
 
