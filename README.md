@@ -15,6 +15,8 @@ Link to video project:
   <iframe src="https://youtu.be/R4VyKKDyfdw" frameborder="0" allowfullscreen></iframe>
 </p>
 
+console.log(embed('https://youtu.be/R4VyKKDyfdw', {query: {portrait: 0, color: '333'}, attr:{width:400, height:200}}))
+
 [//![image](https://user-images.githubusercontent.com/64035334/207258869-a2414d59-8df5-4551-869c-6dbfe53cd2f4.png)](https://youtu.be/R4VyKKDyfdw "Video")
 
 
