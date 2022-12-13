@@ -10,7 +10,10 @@
 Robot design from years 2018/19 hence significant shortcomings in this design especially in the documentation and the written program. More information in the documentation directory.
 
 Link to video project:
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/R4VyKKDyfdw "Video Title")
+[![IMAGE ALT TEXT]([http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://user-images.githubusercontent.com/64035334/207254504-b5bb24b1-e01d-4352-92e7-8e4afe29e314.png))](https://youtu.be/R4VyKKDyfdw "Video Title")
+
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035334/162567626-7ad74af8-86a9-4228-8181-b14ad5300e8f.jpg" width="300" title="PHOTO">
